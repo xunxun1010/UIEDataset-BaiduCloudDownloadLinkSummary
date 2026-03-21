@@ -8,7 +8,7 @@ keywords: {Image enhancement;Convolutional neural networks;Deep learning;Image r
 
 2.UIEBC(60)
 https://pan.baidu.com/s/1hZZSTZV0zwI84li448pIaA?pwd=2yif
-```bibtex
+
 C. Li et al., "An Underwater Image Enhancement Benchmark Dataset and Beyond," in IEEE Transactions on Image Processing, vol. 29, pp. 4376-4389, 2020, doi: 10.1109/TIP.2019.2955241.
 keywords: {Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
 
