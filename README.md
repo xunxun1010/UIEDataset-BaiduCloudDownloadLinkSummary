@@ -2,15 +2,30 @@
 1.UIEBR(890)
 https://pan.baidu.com/s/1wkE26LNcZ2D5wMmNGDyLXA?pwd=6bg8
 
-C. Li et al., "An Underwater Image Enhancement Benchmark Dataset and Beyond," in IEEE Transactions on Image Processing, vol. 29, pp. 4376-4389, 2020, doi: 10.1109/TIP.2019.2955241.
-keywords: {Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
-
+@ARTICLE{8917818,
+  author={Li, Chongyi and Guo, Chunle and Ren, Wenqi and Cong, Runmin and Hou, Junhui and Kwong, Sam and Tao, Dacheng},
+  journal={IEEE Transactions on Image Processing}, 
+  title={An Underwater Image Enhancement Benchmark Dataset and Beyond}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={4376-4389},
+  keywords={Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
+  doi={10.1109/TIP.2019.2955241}}
 
 2.UIEBC(60)
 https://pan.baidu.com/s/1hZZSTZV0zwI84li448pIaA?pwd=2yif
 
-C. Li et al., "An Underwater Image Enhancement Benchmark Dataset and Beyond," in IEEE Transactions on Image Processing, vol. 29, pp. 4376-4389, 2020, doi: 10.1109/TIP.2019.2955241.
-keywords: {Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
+@ARTICLE{8917818,
+  author={Li, Chongyi and Guo, Chunle and Ren, Wenqi and Cong, Runmin and Hou, Junhui and Kwong, Sam and Tao, Dacheng},
+  journal={IEEE Transactions on Image Processing}, 
+  title={An Underwater Image Enhancement Benchmark Dataset and Beyond}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={4376-4389},
+  keywords={Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
+  doi={10.1109/TIP.2019.2955241}}
 
 
 3.U45(45)
@@ -60,6 +75,7 @@ author={Porto Marques, Tunai and Branzan Albu, Alexandra},
 booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
 pages={538-539},
 year={2020}}
+
 @article{porto2019contrast,
 title={A Contrast-Guided Approach for the Enhancement of Low-Lighting Underwater Images},
 author={Porto Marques, Tunai and Branzan Albu, Alexandra and Hoeberechts, Maia},
@@ -86,11 +102,16 @@ https://pan.baidu.com/s/10S4GZg5wXIdR8ZZz7WDesQ?pwd=ixbv
 8.EUVP(24840)
 https://pan.baidu.com/s/1wzohsgQWpMuID4yfDuVLkQ?pwd=9gcp
 
-@ARTICLE{2021arXiv210605681L, 
-author = {{Liu}, Chongwei and {Li}, Haojie and {Wang}, Shuchang and {Zhu}, Ming and {Wang}, Dong and {Fan}, Xin and {Wang}, Zhihui}, 
-title = "{A Dataset And Benchmark Of Underwater Object Detection For Robot Picking}", 
-journal = {arXiv e-prints}, 
-year = 2021, month = jun, eid = {arXiv:2106.05681}, pages = {arXiv:2106.05681}, archivePrefix = {arXiv}, eprint = {2106.05681}, primaryClass = {cs.CV} }
+@ARTICLE{9001231,
+  author={Islam, Md Jahidul and Xia, Youya and Sattar, Junaed},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Fast Underwater Image Enhancement for Improved Visual Perception}, 
+  year={2020},
+  volume={5},
+  number={2},
+  pages={3227-3234},
+  keywords={Image enhancement;Training;Gallium nitride;Real-time systems;Generators;Optical distortion;Visual perception;Marine robotics;deep learning in robotics and automation;computer vision for automation},
+  doi={10.1109/LRA.2020.2974710}}
 
 9.DUO(7782)
 https://pan.baidu.com/s/104DcVXy7lTa5nyqQu-pJWA?pwd=x35g
