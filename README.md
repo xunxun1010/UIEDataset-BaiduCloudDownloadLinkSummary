@@ -1,7 +1,7 @@
 # 水下视觉数据集(百度云)下载链接汇总
 1.UIEBR(890)
 https://pan.baidu.com/s/1wkE26LNcZ2D5wMmNGDyLXA?pwd=6bg8
-```bibtex
+
 C. Li et al., "An Underwater Image Enhancement Benchmark Dataset and Beyond," in IEEE Transactions on Image Processing, vol. 29, pp. 4376-4389, 2020, doi: 10.1109/TIP.2019.2955241.
 keywords: {Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
 
